@@ -19,3 +19,5 @@ Running this program will:
 --header 'Datadog-Meta-Lang-Interpreter: v8' \
 --data-binary '@new_traces'
  ```
+ 
+ Walkthrough for sending custom traces to the agent: https://datadoghq.atlassian.net/l/cp/x050Er32
